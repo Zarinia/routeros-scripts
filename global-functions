@@ -1247,7 +1247,7 @@
 }
 
 # check for required RouterOS version
-$RequiredRouterOS "global-functions" "6.47" true;
+$RequiredRouterOS "global-functions" "7.1rc4" true;
 
 # signal we are ready
 :set GlobalFunctionsReady true;
